@@ -19,8 +19,8 @@
 <br />
 
  
-Projeto que consiste no ranqueamento de perguntas para que as perguntas prioritárias dos aprensetadores
-das lives sejão as mais ranqueadas ou seja, as dúvidas que são mais frequentes pela comunidade.
+Projeto desenvolvido pela trilha ReactJS da RocketSeat, que consiste no ranqueamento de perguntas para que as perguntas prioritárias dos apresentadores
+das lives sejam as mais ranqueadas, sanando as dúvidas que são mais frequentes pela comunidade.
 
 <br />
 
