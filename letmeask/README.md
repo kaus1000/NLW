@@ -56,7 +56,7 @@ Siga @sergiodb121 nas redes :wink:
 
 <br />
 
-Siga a @Rocketeat nas redes
+Siga a @Rocketseat nas redes
 <br />
 
 - [Website](https://rocketseat.com.br/)
