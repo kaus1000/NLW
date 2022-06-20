@@ -19,7 +19,7 @@
 <br />
 
  
-Projeto desenvolvido pela trilha ReactJS da RocketSeat, que consiste no ranqueamento de perguntas para que as perguntas prioritárias dos apresentadores
+Projeto desenvolvido durante a semana do NLW, evento da RocketSeat, que consiste no ranqueamento de perguntas para que as perguntas prioritárias dos apresentadores
 das lives sejam as mais ranqueadas, sanando as dúvidas que são mais frequentes pela comunidade.
 
 <br />
